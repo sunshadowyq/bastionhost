@@ -1,6 +1,6 @@
 # Mac系统运维 {#concept_o3c_blm_xdb .concept}
 
-本文受众范围：运维工程师、云盾堡垒机管理员、持有阿里云帐号的管理员。适用于使用Mac电脑通过本地客户端工具登录云盾堡垒机，再访问目标主机的运维工程师。
+本文受众范围：运维工程师、云盾堡垒机管理员、持有阿里云账号的管理员。适用于使用Mac电脑通过本地客户端工具登录云盾堡垒机，再访问目标主机的运维工程师。
 
 ## SSH协议运维 {#section_m1n_nm4_ydb .section}
 
@@ -15,7 +15,7 @@
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4108_zh-CN.png)
 
-    **Note:** 如果管理员启用了双因子登录，将会弹出短信口令对话框，请输入您手机上收到的6位数字。
+    **说明：** 如果管理员启用了双因子登录，将会弹出短信口令对话框，请输入您手机上收到的6位数字。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4109_zh-CN.png)
 
@@ -45,7 +45,7 @@
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4114_zh-CN.png)
 
-    **Note:** 如果管理员启用了双因子登录，将会弹出短信口令对话框，请输入您手机上收到的6位数字。
+    **说明：** 如果管理员启用了双因子登录，将会弹出短信口令对话框，请输入您手机上收到的6位数字。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4115_zh-CN.png)
 
@@ -75,11 +75,11 @@
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4120_zh-CN.png)
 
-    **Note:** 如果管理员启用了双因子登录，将会弹出短信口令对话框，请输入您手机上收到的6位数字。
+    **说明：** 如果管理员启用了双因子登录，将会弹出短信口令对话框，请输入您手机上收到的6位数字。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4121_zh-CN.png)
 
-    **Note:** 云子账号使用MFA进行二次验证。
+    **说明：** 云子账号使用MFA进行二次验证。
 
 4.  单击<登录\>后进入资产管理界面，请双击选择转码目录（忽略报错信息），再右键选择刷新，进行转码。
 
@@ -115,11 +115,11 @@
 
 3.  输入云盾堡垒机密码，按Enter键连接到堡垒机，不要关闭该窗口。
 
-    **Note:** 如果管理员启用了双因子认证登录，将会提示输入双因子口令，请输入您手机上收到的6位数字。
+    **说明：** 如果管理员启用了双因子认证登录，将会提示输入双因子口令，请输入您手机上收到的6位数字。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4131_zh-CN.png)
 
-    **Note:** 云子账号使用MFA进行二次验证。
+    **说明：** 云子账号使用MFA进行二次验证。
 
 4.  打开filezilla客户端，进入设置页面。
 
@@ -131,7 +131,7 @@
 
 6.  打开站点管理器，输入需要连接运维的服务器IP，设置端口：22；登录类型：正常；输入服务器用户名、密码。
 
-    **Note:** 若相关授权组中已添加正确凭据，则无需输入密码。
+    **说明：** 若相关授权组中已添加正确凭据，则无需输入密码。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12747/4134_zh-CN.png)
 
